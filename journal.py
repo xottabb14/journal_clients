@@ -4,7 +4,7 @@ from openpyxl.styles.borders import Border, Side
 import ctypes
 from datetime import datetime
 
-filexls = "//192.168.1.155/Server/ОТДЕЛ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ/РЕЕСТРЫ/Журнал.xlsx"
+filexls = "Журнал.xlsx"
 
 print ("________Журнал учета посещений клиентов by Xottabb14________")
 
